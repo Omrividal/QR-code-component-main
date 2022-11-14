@@ -1,0 +1,23 @@
+.card {
+  max-width: 88%;
+  height: 550px;
+}
+
+.barcode {
+  flex: 60%;
+  margin-top: 14px;
+}
+
+.text {
+  flex: 40%;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 16px;
+  padding-top: 20px;
+}
